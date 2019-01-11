@@ -19,7 +19,7 @@ The QuadFusion and the company M3D have no affiliation with the CR-10S or its co
 **-** 3.0mm Hex Screwdriver  
 **-** 2.0mm Hex Screwdriver
 
-Once you have removed the extruder that comes with the CR-10S, you will want to take of the mounting plate and drill holes using these specs:
+Once you have removed the extruder that comes with the CR-10S, you will want to take off the mounting plate and drill holes using these specs:
 
 ![](../.gitbook/assets/image%20%2862%29.png)
 
