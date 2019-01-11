@@ -3,7 +3,7 @@
 This guide will go through the process of hooking up your QuadFusion to Creality's CR-10S printer.
 
 {% hint style="warning" %}
-The QuadFusion and the company M3D have no affiliation with the CR-10S or its company.
+There is no affiliation between M3D/The QuadFusion and Creality 3D/The CR-10.
 {% endhint %}
 
 ## Mechanically
